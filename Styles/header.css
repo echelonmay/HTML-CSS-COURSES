@@ -57,12 +57,12 @@
     height: 40px;
     width: 60px;
     background-color: rgb(240, 240, 240);
-    border-
+    border:2px;
 }
 
 .search-icon{
     height: 25px;
-    margin-top: 4px;
+    margin-top:  4px;
 }
 
 
